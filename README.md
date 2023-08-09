@@ -4,7 +4,7 @@
 
 Started as a true vue 2 application:
 
-![Vue 2 Application](images/vue2app.png)
+![Vue 2 Application](images/vue2App.png)
 
 ## Build Setup
 
