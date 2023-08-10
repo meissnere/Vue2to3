@@ -6,6 +6,10 @@ Started as a true vue 2 application:
 
 ![Vue 2 Application](images/vue2App.png)
 
+Here is some proof we are initializing and old, ugly, outdated vueJS app:
+
+![Vue 2 Proof](images/vue2Proof.png)
+
 ## Build Setup
 
 ``` bash
