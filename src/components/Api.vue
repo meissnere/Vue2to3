@@ -78,7 +78,7 @@ export default {
     if (!document.getElementById('google-maps-script')) {
       const scriptMapAPI = document.createElement('script')
       scriptMapAPI.id = 'google-maps-script'
-      scriptMapAPI.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyBajKPljgDRgM0cgUMMu7v172qZGYim6K0&callback=initMap&libraries=&v=weekly'
+      scriptMapAPI.src = 'https://maps.googleapis.com/maps/api/js?key=ASK_ERICH!&callback=initMap&libraries=&v=weekly'
       scriptMapAPI.defer = true
       document.head.appendChild(scriptMapAPI)
     }
